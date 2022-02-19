@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1543853517 source:c:\users\panda cueva 2.1\desktop\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1543856126 source:e:\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1543971426 source:g:\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1543904065 source:f:\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1543971426 source:c:\users\alexescalante\desktop\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1544022297 source:c:\users\sistemas-16\desktop\my compilador version 6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1544022553 source:g:\my compilador version 7\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1544022553 source:c:\users\alexescalante\desktop\my compilador version 7\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
+1544978022 source:c:\users\alexescalante\desktop\my compilador v7.1\my compilador version 7\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1545022955 source:c:\users\alexescalante\desktop\my compilador v8\my compilador version 8\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1545022955 source:e:\semestre 5º\my compilador v8\my compilador version 8\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+

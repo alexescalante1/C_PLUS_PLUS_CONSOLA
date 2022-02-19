@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1594497423 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\imagenes\imagen.cpp
+	"imagen.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1594497423 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\imagenes\imagen.h
+	<vector>
+	<string>
+
+1594497507 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\imagenes\main.cpp
+	<iostream>
+	<imagen.h>
+

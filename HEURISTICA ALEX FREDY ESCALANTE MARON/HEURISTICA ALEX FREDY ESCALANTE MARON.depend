@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1592429836 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\heuristica alex fredy escalante maron\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<cmath>
+
+1592429849 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\heuristica alex fredy escalante maron\resource.h
+
+1592429836 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\heuristica alex fredy escalante maron\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

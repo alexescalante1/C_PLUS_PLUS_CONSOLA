@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594058108 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\generar numeros aleatorios\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+

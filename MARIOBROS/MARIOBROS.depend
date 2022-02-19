@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\mariobros\main.cpp
+	<iostream>
+
+1594824155 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\mariobros\objetos.cpp
+	"OBJETOS.h"
+
+1594824155 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\mariobros\objetos.h
+

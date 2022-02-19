@@ -1,0 +1,9 @@
+			if(R->DAT_AUT=="op_multiplica"||R->DAT_AUT=="op_divicion"){
+				if(R->DAT_AUT=="op_multiplica"){cout<<R->DAT_AUT<<"\n"; R=R->der;
+				}
+
+				if(R->DAT_AUT=="op_divicion"){cout<<R->DAT_AUT<<"\n"; R=R->der;
+				}
+
+			}else{ERROR_AUTOMATA=1;}
+

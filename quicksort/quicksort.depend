@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592615396 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+

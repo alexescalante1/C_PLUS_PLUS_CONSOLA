@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1544161180 source:c:\users\alexescalante\desktop\tabla de simbolos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1544293163 source:c:\users\alexescalante\desktop\my compilador v7.1\tabla de simbolos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1544294826 source:e:\semestre 5º\my compilador v8\tabla de simbolos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<conio.h>
+	<string.h>
+	<fstream>
+

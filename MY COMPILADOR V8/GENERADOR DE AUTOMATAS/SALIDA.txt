@@ -1,0 +1,2 @@
+			if(R->DAT_AUT=="tipo_int"){cout<<R->DAT_AUT<<"\n"; R=R->der;
+			}

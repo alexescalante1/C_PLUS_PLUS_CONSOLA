@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591453333 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\fecha y hora\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+
